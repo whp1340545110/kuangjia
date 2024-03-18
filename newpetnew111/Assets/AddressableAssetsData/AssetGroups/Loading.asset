@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Loading
+  m_EditorClassIdentifier: 
+  m_GroupName: Loading
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 065046b1e0c201c4098e3eb8a849c469
+  m_SerializeEntries:
+  - m_GUID: a0885e7f0cd23154d9e3a057b663022c
+    m_Address: Loading/Spine/logo/logo_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b65f27d1b19263e4fb5957eae8717309
+    m_Address: Loading/Spine/logo/logo_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4315b48d51902e844a89e79596f20252
+    m_Address: Loading/Spine/logo/logo_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eef5cdb33e2bcce468dc486da3245c8c
+    m_Address: Loading/Spine/logo/logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1376b56350d10f438954a04b2fc8cac
+    m_Address: Loading/Spine/logo/logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38bdb7272526ac646a8938039ec18cce
+    m_Address: Loading/Spine/logo/logo.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f46010d60e97b944da51807a12f9f8eb
+    m_Address: Loading/Spine/dongwu/dongwu_SkeletonData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22fc94c1c20a9d2449baaace9d3d5405
+    m_Address: Loading/Spine/dongwu/dongwu_Material
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e264114859056154eb84d0e2f062c68b
+    m_Address: Loading/Spine/dongwu/dongwu_Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ae41c733d91ebe4a99a8c7079198c96
+    m_Address: Loading/Spine/dongwu/dongwu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48aab8d8172beb34e903d5c836f4d327
+    m_Address: Loading/Spine/dongwu/dongwu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8c267c4d349f4646a5686944aba93f1
+    m_Address: Loading/Spine/dongwu/dongwu.atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f9685370f218f1428cea4f73f3e2345
+    m_Address: Loading/_Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a78d8e2b22a6b5b4e9ec4742dab5fd2c
+    m_Address: Loading/UIPrivacyPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0abacd6bed5cda84a8d6ec840237b3c0
+    m_Address: Loading/UILoadingNew
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e7ecb41b04a9734e9ee799f1367ce2e
+    m_Address: Loading/UILoading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aad9afd4a40481c43a668094293fce04
+    m_Address: Loading/Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2098f9d2fb3b9fa429790a24df3db084
+    m_Address: Loading/loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f583d2343c546ae44803a5a98edbf122, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 442830e2547505647a690f5aad9fe1ea, type: 2}
+    - {fileID: 11400000, guid: a716836f9fcaef2489de3d2c3870cdce, type: 2}

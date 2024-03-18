@@ -1,0 +1,15 @@
+﻿namespace Temp
+{
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
+    using UniRx;
+    using UniRx.Async;
+    using PFramework;
+    using PFramework.Event;
+
+    public class #NAME : MonoBehaviour
+    {
+    
+    }
+}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: VFX
+  m_EditorClassIdentifier: 
+  m_GroupName: VFX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7a47affcc025b5143ab7863758ed7a94
+  m_SerializeEntries:
+  - m_GUID: 26e9a9862c2559544abf4ead6fd4e465
+    m_Address: VFX/Textures/star_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b77e3874618f804a978154e75a3e8b4
+    m_Address: VFX/Textures/111
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d12ef6e654a6f6f4b858dfafe68aebda
+    m_Address: VFX/Materials/x4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20ac97e63a35bb8438935efac5857b0c
+    m_Address: VFX/Materials/111
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f583d2343c546ae44803a5a98edbf122, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bb8f29a6435970448a5d396c8a52a459, type: 2}
+    - {fileID: 11400000, guid: b8ee3d60acd2867428372a57097b3605, type: 2}

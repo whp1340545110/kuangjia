@@ -1,0 +1,40 @@
+﻿namespace Temp
+{
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
+    using UnityEngine.UI;
+    using UniRx;
+    using UniRx.Async;
+    using PFramework;
+    using PFramework.Page;
+    using PFramework.Event;
+
+    public class #NAME : PageBase
+    {
+        protected override void OnPageAwake()
+        {
+        
+        }
+
+        protected override void OnPageStart()
+        {
+        
+        }
+
+        protected override void OnPageCreate(Arguments args)
+        {
+        
+        }
+
+        protected override void OnPageClose()
+        {
+        
+        }
+
+        protected override void OnPageDestroy()
+        {
+        
+        }
+    }
+}

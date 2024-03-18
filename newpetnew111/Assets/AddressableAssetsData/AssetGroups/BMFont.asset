@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BMFont
+  m_EditorClassIdentifier: 
+  m_GroupName: BMFont
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cab13466d6c2a89438f002c06bc18f19
+  m_SerializeEntries:
+  - m_GUID: 5b5b5f57a964387469ef09637ab52296
+    m_Address: BMFont/Fonts/tixian/tixian_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53ffcb8f20183594e9d8bb881e0039b6
+    m_Address: BMFont/Fonts/tixian/tixian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7102e42e155802448b8c96efee940028
+    m_Address: BMFont/Fonts/tixian/tixian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 510270b01e92ede4e8f4283a47851619
+    m_Address: BMFont/Fonts/tixian/tixian
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d42d147a695a3cb4b9a508ffd2090e3f
+    m_Address: BMFont/Fonts/NoFont/temp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 728371e05d347024d92135a0895f3d5c
+    m_Address: BMFont/Fonts/NoFont/temp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01105718d0882a542895a2d8ad26ba40
+    m_Address: BMFont/Editor/ByteReader
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c51518ed2e3347e4992b6cdea56137f2
+    m_Address: BMFont/Editor/BMGlyph
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 50bd045ae82522847a3f3751a1396bb6
+    m_Address: BMFont/Editor/BMFontReader
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3eb236b74ae6720489820af9ebaa41e9
+    m_Address: BMFont/Editor/BMFontEditor
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 723c82bb020988349b78f678d4d672ca
+    m_Address: BMFont/Editor/BMFont
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a4dccc12d92401848828c52cfbce7254
+    m_Address: BMFont/Editor/BetterList
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f583d2343c546ae44803a5a98edbf122, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 41582701d56f0bd47a07b20bde6317d1, type: 2}
+    - {fileID: 11400000, guid: 8f35ffef01b6b784e93309f5c4e0955a, type: 2}

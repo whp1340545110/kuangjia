@@ -1,0 +1,15 @@
+﻿namespace Temp
+{
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
+    using UniRx;
+    using UniRx.Async;
+    using PFramework;
+
+    public class #NAME : ManagerBase<#NAME>
+    {
+        private #NAME() { }
+        public override void Initialize() { }
+    }    
+}

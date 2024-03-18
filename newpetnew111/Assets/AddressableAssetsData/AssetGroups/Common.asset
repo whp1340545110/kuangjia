@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Common
+  m_EditorClassIdentifier: 
+  m_GroupName: Common
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5fe8d47b8417a0846a3a13d3ebf2628d
+  m_SerializeEntries:
+  - m_GUID: f975ace47575037438d08352eb2035b9
+    m_Address: Common/Shader/UI-Gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb87b07ac576b544eb15c91627692a7d
+    m_Address: Common/Shader/Sprite_Gray
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7847a24ffb7b7484cb958d27a0bc25c9
+    m_Address: Common/Shader/RectGuid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68a9b97ddb5e04f9892890698fe13412
+    m_Address: Common/Shader/ImgGrey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adaa22248cb2b4f7cb1e34de543b0aab
+    m_Address: Common/Shader/ImgCombine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57f751060ee89934bb4093cf58f01614
+    m_Address: Common/Shader/CircleGuide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0d05843fdf65744bb7b91d6a97dcdc1
+    m_Address: Common/Material/tri
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddab5f1707b6f474fa014dae41cf0527
+    m_Address: Common/Material/rili
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbf728f9153586a419572fd27a1da11a
+    m_Address: Common/Material/RectGuid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02a501cf05af2f64b9b59524c644c31c
+    m_Address: Common/Material/move
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e741ebbc5e6414a5699a7f690e73b762
+    m_Address: Common/Material/ImageGrey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c5311610db4248649ea05808210a63b
+    m_Address: Common/Material/ImageCombine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13313ce1624d2004e865ad0f75d3cbdd
+    m_Address: Common/Material/CircleGuide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 768e9def3213c444ba2b20d69dc69bdd
+    m_Address: Common/Material/475
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79932ffe5f7bee342948c74f3374868b
+    m_Address: Common/Font/new
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 923da889ce0881e4abe954bd9da47ad9
+    m_Address: Common/Font/common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f57dac2b6dfb37c4da0395f247dad686
+    m_Address: Common/Font/aachenn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 152ab20a2c727ff4393cf4df45cbe835
+    m_Address: Common/Font/aachenn SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cf1c89a37fc7744990857cae0586883
+    m_Address: Common/Font/740000
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dbaa87860bba124097c2b02ba9dbe03
+    m_Address: Common/Font/520074
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28bca2b1d3a7bb94d86e616bba93a527
+    m_Address: Common/Font/0b0074
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37deb48a4a1f2a94d973bc6ad7e52b3b
+    m_Address: Common/artFont/art_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bc40e892b750e84eb5e39a83b538329
+    m_Address: Common/artFont/artNum_mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 142bfcafa047e0745af618fc6690eb76
+    m_Address: Common/artFont/artNum
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4adf146973bbae34cb98656d7bc26aee
+    m_Address: Common/artFont/art
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5dcc0eb7ba55be4ebcb3e0fc0687c09
+    m_Address: Common/_Texture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ddf7de1bd1cbb74fa623b99fff07134
+    m_Address: Common/commonBtn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18e486f6c73258949999154a1d688cc7
+    m_Address: Common/common
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f583d2343c546ae44803a5a98edbf122, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 762757baa6b459b49b2b36ecba530dd4, type: 2}
+    - {fileID: 11400000, guid: 267b958d5a67ecb459da2f2a84cd3395, type: 2}

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 604e6c17263ef4649863cba80b346dc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redPackParticlePrefab: {instanceID: 0}
+  - particleGOPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
